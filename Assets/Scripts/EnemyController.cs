@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 //using System.Collections;
-// Git test 1
+// Git test 2
 
 public class EnemyController : MonoBehaviour {
 
